@@ -1,5 +1,5 @@
 import React from 'react'
-import heart from '../Components/heart.jpg'
+import heart from '../../static/heart.jpg'
 
 
 export default() =>  (

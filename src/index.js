@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './Pages/App'
-import './Styles/index.css'
+import './styles/index.css'
 
 
 
