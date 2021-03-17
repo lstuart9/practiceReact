@@ -4,9 +4,11 @@ import React from "react";
 
 
 export default (props) => (
-    <div key={props.key}>
-        <div backgroundcolor={props.color} >{props.value}</div>
+    <div className="boxy" id={props.id}>
+
+        <div style= {{ width:300, height:300}}>
+            {props.value}</div>
         <div></div>
         <div></div>
-    </div>
+        </div>
 )

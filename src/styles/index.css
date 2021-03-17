@@ -34,5 +34,23 @@ body {
   background-color: lightpink;
   color: white;
 }
-
+.boxy {
+  height: 300px;
+  width: 300px;
+}
+#one {
+  background-color: yellow;
+}
+#two {
+   background-color: teal;
+ }
+#three {
+  background-color: pink;
+}
+#four {
+  background-color: green;
+}
+#five {
+  background-color: aqua;
+}
 
