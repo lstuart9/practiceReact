@@ -1,5 +1,5 @@
 import React from 'react'
-import flex from '../Components/flexers'
+import Flex from '../Components/flexers'
 
 export default() =>  (
     <div >
@@ -19,11 +19,18 @@ export default() =>  (
                         njkdbfjkasbfnmksdlanfmkdslanfm,sl
                         hjiwohrjeopjakfophjkelpgjnkelpw</h2>
             </div>
-        <div className='flex' style={{display: 'flex', justifyContent: "center"}}> <flex /> </div>
+        <div className='flex' style={{display: 'flex', justifyContent: "center"}}> <Flex boxes={boxes} /> </div>
 
 
         </div>
 
 )
+let boxes = [
+    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'pink'}} 1</div>,
+    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'purple'}} 2</div>,
+    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'coral'}} 3</div>,
+    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'navy'}} 4</div>,
+    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'mint'}} 5</div>
+]
 
 

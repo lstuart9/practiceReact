@@ -1,12 +1,13 @@
 import React from "react";
+// set array as const, and then use for each func
+//map function, use props for background color using a for each loop
+const Flex = ({boxes}) => (
+    <>
+        {boxes.map(box => (
+        <div className="box" key={box.call}> {box.call} </div>
+            ))}
+    </>
 
-const flex = () => {
-    return [
-        <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'pink'}} 1</div>,
-        <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'purple'}} 2</div>,
-        <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'coral'}} 3</div>,
-        <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'navy'}} 4</div>,
-        <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'mint'}} 5</div>
-    ]
-}
-export default flex;
+);
+
+export default Flex;
