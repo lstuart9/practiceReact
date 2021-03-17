@@ -1,5 +1,17 @@
 import React from 'react'
-import Flex from '../Components/flexers'
+import Flexers from '../Components/flexers'
+
+const boxes = [
+    {key:1, value: "Box 1", color: "pink"},
+    {key:2, value: "Box 2", color: "navy"},
+    {key:3, value: "Box 3", color: "orange"},
+    {key:4, value: "Box 4", color: "teal"},
+    {key:5, value: "Box 5", color: "green"},
+
+]
+
+
+
 
 export default() =>  (
     <div >
@@ -19,18 +31,26 @@ export default() =>  (
                         njkdbfjkasbfnmksdlanfmkdslanfm,sl
                         hjiwohrjeopjakfophjkelpgjnkelpw</h2>
             </div>
-        <div className='flex' style={{display: 'flex', justifyContent: "center"}}> <Flex boxes={boxes} /> </div>
+
+        <div>
+            { boxes.map((props) => (
+                    <Flexers key={key} value={value} color={color}/>
+                )
+            )
+
+            }
+
+
+        </div>
+
+
+
+
+
+
+
 
 
         </div>
 
 )
-let boxes = [
-    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'pink'}} 1</div>,
-    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'purple'}} 2</div>,
-    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'coral'}} 3</div>,
-    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'navy'}} 4</div>,
-    <div> style = {{width: 300, height: 300, display: 'flex', backgroundColor: 'mint'}} 5</div>
-]
-
-
