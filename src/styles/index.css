@@ -1,13 +1,8 @@
 body {
-  font-family: Cambria;
   color: navy;
-  margin: 0;
+
 }
-.flex {
-  width: 300px;
-  height: 300px;
-  border: 1px solid black;
-}
+
 
 .topnav {
   background-color: lightcoral;
@@ -34,9 +29,25 @@ body {
   background-color: lightpink;
   color: white;
 }
+.header{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+  text-align: center;
+}
+.boxContainer{
+  display: flex;
+  flex-wrap: wrap;
+}
 .boxy {
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 250px;
+  border: 1px solid black;
+  margin: auto
+;
+
 }
 #one {
   background-color: yellow;

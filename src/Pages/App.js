@@ -16,34 +16,37 @@ const boxes = [
 export default () => (
     <div >
 
-        <div className="topnav">
-            <a className="active" href="App">These</a>
-            <a href="Flex">Don't</a>
-            <a href="#Go">Go</a>
-            <a href="#Anywhere">Anywhere</a>
-        </div>
-        <div style={{ display: "flex", justifyContent: "center", alignItems: "center", backgroundColor: "lightblue" }}>
-            <h1>Howdy there don't break</h1>
-            <img src={'https://i.imgur.com/SxPDCQi.jpg%27%7D'} alt={"heart"} style={{ width: 150, height: 100 }} />
-            <h2>This is an example body paragraph, the rest will be filled with gibberish
+                <div className="topnav">
+                    <a className="active" href="App">These</a>
+                    <a href="Flex">Don't</a>
+                    <a href="#Go">Go</a>
+                    <a href="#Anywhere">Anywhere</a>
+                </div>
+
+
+
+                <div className="header" >
+                <h1>Howdy there don't break</h1>
+                <img src={'https://i.imgur.com/SxPDCQi.jpg%27%7D'} alt={"heart"} style={{ width: 150, height: 100 }} />
+                <h2>This is an example body paragraph, the rest will be filled with gibberish
                 kdsnfjjdshfndsjnfjnsdnfndsjfnjksdjfsaf
                 sdfsdfsfsdaffsdfhgisdhfjkdjshfkjsdfdsbfdsbndslfnpnsdkfhsaj
                 njkdbfjkasbfnmksdlanfmkdslanfm,sl
                 hjiwohrjeopjakfophjkelpgjnkelpw </h2>
                 </div>
 
-                <div>
-            {boxes.map((boxProps //this just names the item that you are iterating over 'props' withing this function's scope. Name it something else and then pass down namedSomething.key and then namedSomething.value, etc/
-                 ) => (
+
+
+
+            <div className="boxContainer">
+            {boxes.map((boxProps) => (
                 <Flexers id={boxProps.id} value={boxProps.value} color={boxProps.color} />
-                )
+                    )
                 )
 
             }
 
-
-                </div>
-
+            </div>
 
 
 
@@ -52,6 +55,7 @@ export default () => (
 
 
 
-                </div>
+
+    </div>
 
                 )
