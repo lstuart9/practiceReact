@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d047f299-746a-49c8-b478-80870c71cfde" name="Default Changelist" comment="refactoring for chris">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/flexers.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/App.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/flexers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/flexers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pPLlYZrCSbpgTJ0NwGjmQNpxk4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lachl\Desktop\test site\react-tutorial\src\styles" />
+      <recent name="C:\Users\lachl\Desktop\test site\react-tutorial\src" />
+      <recent name="C:\Users\lachl\Desktop\test site\react-tutorial" />
+      <recent name="C:\Users\lachl\Desktop\test site\react-tutorial\Static" />
+      <recent name="C:\Users\lachl\Desktop\test site\react-tutorial\src\Pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d047f299-746a-49c8-b478-80870c71cfde" name="Default Changelist" comment="" />
+      <created>1615079930058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615079930058</updated>
+      <workItem from="1615079933209" duration="16576000" />
+      <workItem from="1615690780832" duration="17743000" />
+      <workItem from="1615999175268" duration="9932000" />
+      <workItem from="1616533271993" duration="43000" />
+      <workItem from="1617310497308" duration="9155000" />
+      <workItem from="1620670069230" duration="6897000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basics lmao">
+      <created>1615080986959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615080986959</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed extras">
+      <created>1615081534774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615081534774</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed extras">
+      <created>1615082739493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615082739493</updated>
+    </task>
+    <task id="LOCAL-00004" summary="basic formatting/content">
+      <created>1615085205247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615085205247</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactoring for chris">
+      <created>1615148741309</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615148741309</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1615149157359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615149157359</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactored folders">
+      <created>1615774216644</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615774216644</updated>
+    </task>
+    <task id="LOCAL-00008" summary="flex attempt one :/">
+      <created>1615834356412</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615834356412</updated>
+    </task>
+    <task id="LOCAL-00009" summary="flex problems 2">
+      <created>1615998787217</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615998787217</updated>
+    </task>
+    <task id="LOCAL-00010" summary="global gitignore of .idea">
+      <created>1615999241788</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615999241788</updated>
+    </task>
+    <task id="LOCAL-00011" summary="attempt at flex mapping once again, not quite tho">
+      <created>1616021117925</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616021117925</updated>
+    </task>
+    <task id="LOCAL-00012" summary="attempt at flex mapping once again, not quite tho">
+      <created>1616024519921</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616024519921</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Flex v1">
+      <created>1617326755069</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1617326755069</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Intro to scss and made box color dynamic">
+      <created>1620674439636</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620674439636</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basics lmao" />
+    <MESSAGE value="removed extras" />
+    <MESSAGE value="basic formatting/content" />
+    <MESSAGE value="refactoring for chris" />
+    <MESSAGE value="test" />
+    <MESSAGE value="refactored folders" />
+    <MESSAGE value="flex attempt one :/" />
+    <MESSAGE value="flex problems 2" />
+    <MESSAGE value="global gitignore of .idea" />
+    <MESSAGE value="attempt at flex mapping once again, not quite tho" />
+    <MESSAGE value="Flex v1" />
+    <MESSAGE value="Intro to scss and made box color dynamic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intro to scss and made box color dynamic" />
+  </component>
+</project>

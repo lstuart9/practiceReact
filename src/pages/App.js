@@ -1,5 +1,6 @@
 import React from 'react'
-import Flexers from '../Components/flexers'
+import Flexers from '../components/flexers'
+import styles from "./App.module.scss";
 
 const boxes = [
     { id: 'one', value: "Box 1", color: "pink" },
@@ -16,7 +17,7 @@ const boxes = [
 export default () => (
     <div >
 
-                <div className="topnav">
+                <div className={styles.topnav}>
                     <a className="active" href="App">These</a>
                     <a href="#Don't">Don't</a>
                     <a href="#Go">Go</a>
@@ -25,7 +26,7 @@ export default () => (
 
 
 
-                <div className="header" >
+                <div className={styles.header} >
                 <h1>Howdy there don't break</h1>
                 <img src={'https://i.imgur.com/SxPDCQi.jpg%27%7D'} alt={"heart"} style={{ width: 150, height: 100 }} />
                 <h2>This is an example body paragraph, the rest will be filled with gibberish
@@ -38,7 +39,7 @@ export default () => (
 
 
 
-            <div className="boxContainer">
+            <div className={styles.boxContainer}>
             {boxes.map((boxProps) => (
                 <Flexers id={boxProps.id} value={boxProps.value} color={boxProps.color} />
                     )
