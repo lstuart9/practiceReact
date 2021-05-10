@@ -18,7 +18,7 @@ export default () => (
 
                 <div className="topnav">
                     <a className="active" href="App">These</a>
-                    <a href="Flex">Don't</a>
+                    <a href="#Don't">Don't</a>
                     <a href="#Go">Go</a>
                     <a href="#Anywhere">Anywhere</a>
                 </div>
